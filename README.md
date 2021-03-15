@@ -86,6 +86,7 @@ API еndpoint адрес на **production**:
 ![alt](https://i.imgur.com/I7TAUpj.png)
 
 Полная, развернутая структура папок выглядит следующим образом:
+
 ![alt](https://i.imgur.com/bXYfYHJ.png)
 
 Первоначальная установка Slim 4 Framework состояла только из корневой папки и файлов:
