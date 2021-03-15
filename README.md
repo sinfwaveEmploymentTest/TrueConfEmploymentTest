@@ -174,6 +174,7 @@ $app->group('/api', function (RouteCollectorProxy $group) {
 ![alt](https://i.imgur.com/4xoPnWy.png)
 
 В каждом из случаев отправляется соответствующий **HTTP Status Code** который отображен так же в теле сообщения в поле **code**. В имплементациях расширенных API данное поле в теле сообщения можно использовать для кастомных номерных статусов сообщений API.
+
 ![alt](https://i.imgur.com/wZcNBWA.png)
 
 ----
