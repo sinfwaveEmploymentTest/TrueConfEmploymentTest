@@ -224,7 +224,7 @@ Error::Json(400, 'MsgSender', 'Message body');
 ![alt](https://i.imgur.com/JCqoCeU.png)
 
 Проверка на наличие двух **core** полей запроса `method` и `data`.
-![alt](https://i.imgur.com/NwvWwHn.png)
+![alt](https://i.imgur.com/BGbtQoj.png)
 ![alt](https://i.imgur.com/njFFTpQ.png)
 
 Проверка запроса на разрешенный API метод из поля `method` список которых указывается в конфигурационном файле.
