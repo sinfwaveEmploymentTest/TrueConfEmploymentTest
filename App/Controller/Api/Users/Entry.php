@@ -67,7 +67,7 @@ class Entry
 		
 		// check core field method
 		if ( ! $this->req['method'] )
-		return Error::Json(400, $this->responseArg['sender'], 'Required core field *method* in JSON request not found');
+		return Error::Json(400, $this->responseArg['sender'], 'Required core field "method" in JSON request not found');
 		
 		// check core field data
 		if ( ! $this->req['data'] )
